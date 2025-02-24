@@ -4,7 +4,6 @@ import os
 import math
 import tkinter.messagebox as tk_messagebox
 
-# Настройка темы CustomTkinter
 ctk.set_appearance_mode("System")  # Системная тема по умолчанию
 ctk.set_default_color_theme("blue")  # Синяя цветовая схема
 
